@@ -22,7 +22,6 @@
 ### Stats
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)
-![Release Date](https://img.shields.io/github/release-date/your-username/your-repo)
-![Created Repositories](https://img.shields.io/github/repositories/your-username)
+![GitHub Stars](https://img.shields.io/github/stars/Anri-Tsetskhladze/Anri-Tsetskhladze?style=social)
+![Release Date](https://img.shields.io/github/release-date/Anri-Tsetskhladze/Anri-Tsetskhladze)
+![Created Repositories](https://img.shields.io/github/repositories/Anri-Tsetskhladze)
