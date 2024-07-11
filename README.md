@@ -1,8 +1,4 @@
-# BrainPower
-
-
-
-## 🧠 BrainPower
+## 🧠 Anri Tsetskhladze
 
 ### 💪 Genius Billionaire Playboy Philanthropist
 
@@ -35,6 +31,3 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Anri-Tsetskhladze/Anri-Tsetskhladze?style=social)
 ![Total Commits](https://img.shields.io/github/commit-activity/y/Anri-Tsetskhladze/Anri-Tsetskhladze)
 ![Total Contributions](https://img.shields.io/github/contributors/Anri-Tsetskhladze/Anri-Tsetskhladze)
-![Repo Size](https://img.shields.io/github/repo-size/Anri-Tsetskhladze/Anri-Tsetskhladze)
-![Release Date](https://img.shields.io/github/release-date/Anri-Tsetskhladze/Anri-Tsetskhladze)
-![Created Repositories](https://img.shields.io/github/repositories/Anri-Tsetskhladze)
