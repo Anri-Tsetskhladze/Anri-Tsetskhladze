@@ -1,4 +1,8 @@
-## 🧠 Genius Megamind
+# BrainPower
+
+
+
+## 🧠 BrainPower
 
 ### 💪 Genius Billionaire Playboy Philanthropist
 
@@ -21,9 +25,11 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anri-Tsetskhladze&show_icons=true&theme=radical&hide=stars,issues&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anri-Tsetskhladze&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs&custom_title=Anri%20Tsetskhladze%27s%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anri-Tsetskhladze&layout=compact&theme=radical)
+---
+
+### Additional Stats
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anri-Tsetskhladze.Anri-Tsetskhladze)
 ![GitHub Stars](https://img.shields.io/github/stars/Anri-Tsetskhladze/Anri-Tsetskhladze?style=social)
@@ -32,4 +38,3 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Anri-Tsetskhladze/Anri-Tsetskhladze)
 ![Release Date](https://img.shields.io/github/release-date/Anri-Tsetskhladze/Anri-Tsetskhladze)
 ![Created Repositories](https://img.shields.io/github/repositories/Anri-Tsetskhladze)
-
