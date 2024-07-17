@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Genius Megamind</h1>
 <h3 align="center">Genius, Billionaire, Playboy, Philanthropist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anri-tsetskhladze&label=Profile%20views&color=0e75b6&style=flat" alt="anri-tsetskhladze" /> </p>
