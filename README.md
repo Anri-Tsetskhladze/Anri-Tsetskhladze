@@ -9,4 +9,4 @@
 <p align="center">
   Visitor count<br>
 <img align="left" height=97 src="https://profile-counter.glitch.me/Anri-Tsetskhladze/count.svg" />
-</p> make a smaller heights and whitdh
+</p> 
